@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package javabasicsselfassessment; 
-import java.util.Scanner; 
 /** 
  * 
  * @author IT CENTER 
